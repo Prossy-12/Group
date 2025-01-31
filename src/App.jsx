@@ -1,12 +1,15 @@
 import React from 'react';
 
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
     <>
+florence
      
     <h1>Pretty baby Florence</h1>
+      <h1>Sharon only</h1>
+ main
     </>
   )
 }
